@@ -5,26 +5,24 @@
   id = "com.phonegap.app5"
   version = "1.0.0">
   
-  <name>app5 Advetencias del equipo 2018</name>
+  <name>app5 Advertencias del Dispositivo 2018</name>
   
   <description>
-  Aplicacion que realiza la vibracion y beep del dispositivo
+  Aplicacion que realiza la vibracion y beep del Dispositivo
   </description>
   
   <author href="https://build.phonegap.com" email="cb16.ramirez.casquera.julia@gmail.com">
-    Julia Liliana Ramirez Casquera
+    Ramirez Casquera Julia Liliana 
    </author>
    
-  <!--Personaliza la aplicacion y plataforma -->
-   <!--<preference name="orientation"  value="default"/>-->
-   <preference name="orientation"  value ="portrait"/>
-   <!--<preference name="orientation"  value="landscape"/>-->
+   <!--Personaliza la aplicacion y plataforma -->
+   <!-- <preference name="orientation"  value="default"/> -->
+   <preference name="orientation"  value="portrait"/>
+   <!-- <preference name="orientation"  value="landscape"/> -->
    <preference name="target-device"  value="universal"/>
    <preference name="fullscreen"  value="true"/>
    <preference name="android-installLocation"  value="auto"/>
    <preference name="permissions"  value="INTERNET"/>
-   
-
    
    <!--Plugins -->
    <!--Core plugins-->
@@ -40,3 +38,4 @@
   <icon src="res/android/mdpi.png"/>
   
   </widget>
+   
